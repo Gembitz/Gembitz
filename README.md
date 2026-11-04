@@ -7,17 +7,17 @@ Halo, perkenalkan aku Gembitz (Tino) aku seorang mahasiswa Informatika. Saat ini
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,py,cpp,laravel,vue,mysql,supabase,vercel,git,github,figma,vscode)
 
 ## My top  projects
-### Website Organisasi
+#### Website Organisasi
 Website untuk mendukung pengelolaan informasi dan kegiatan organisasi.
 **Teknologi:** PHP, Laravel, MySQL
 **Fitur:** Pengelolaan berita, prestasi, pengurus, akun pengguna, dan administrasi organisasi.
 [📂 Lihat Repository](https://github.com/Gembitz/roboticweb)
-### E-commerce (ON-GOING)
+#### E-commerce (ON-GOING)
 Website E-Commerce untuk salah satu brand apparel yang menginginkan sebuah E-Commerce untuk produk-produk yang mereka hasilkan.
 **Teknologi:** PHP, Laravel, PostgreSQL
 **Fitur:** Detail produk, checkout, filter, payment gateway
 [📂 Lihat Repository](https://github.com/Gembitz/fervent-apparel)
-### Sistem Pendukung Keputusan
+#### Sistem Pendukung Keputusan
 Proyek sistem pendukung keputusan pemilihan pupuk yang dikembangkan sebagai bagian dari pengalaman belajar dan pengerjaan proyek.
 **Teknologi:** PHP 
 **Fitur:** Menambahkan kategori pupuk, membandingkan pupuk, dan memberikan rekomendasi pupuk
