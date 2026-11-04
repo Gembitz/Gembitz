@@ -1,4 +1,4 @@
-![Gembitz banner](Gembitz\img\github-header-banner-new.png)
+![Gembitz banner](img\github-header-banner-new.png)
 
 ## About Me
 Halo, perkenalkan aku Gembitz (Tino) aku seorang mahasiswa Informatika. Saat ini aku tertatik pada pengembangan Backend, pengelolaan basis data, dan pembuatan perangkat lunak yang bermanfaat. Aku memiliki pengalaman praktik melalui pembuatan webite (PHP, JS, Laravel, Vue, MYSQL) dan pengembangan robot (C++, Python). Saat ini, aku sedang memperdalam skill pemrogramanku dan aku berkomitmen untuk terus belajar, mengembangkan kemampuan, dan membangun perangkat lunak yang dapat memberikan manfaat bagi banyak orang.
