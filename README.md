@@ -1,4 +1,4 @@
-![Gembitz banner](img\github-header-banner.png)
+![Gembitz banner](Gembitz\img\github-header-banner-new.png)
 
 ## About Me
 Halo, perkenalkan aku Gembitz (Tino) aku seorang mahasiswa Informatika. Saat ini aku tertatik pada pengembangan Backend, pengelolaan basis data, dan pembuatan perangkat lunak yang bermanfaat. Aku memiliki pengalaman praktik melalui pembuatan webite (PHP, JS, Laravel, Vue, MYSQL) dan pengembangan robot (C++, Python). Saat ini, aku sedang memperdalam skill pemrogramanku dan aku berkomitmen untuk terus belajar, mengembangkan kemampuan, dan membangun perangkat lunak yang dapat memberikan manfaat bagi banyak orang.
@@ -37,3 +37,9 @@ Proyek sistem pendukung keputusan pemilihan pupuk yang dikembangkan sebagai bagi
 
 ## Social Media
 [![https://www.instagram.com/gembitz_](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gembitz_) [![https://mail.google.com/mail/?view=cm&fs=1&to=tinow582@gmail.com&su=Hello%20Gembitz%20Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=tinow582@gmail.com&su=Hello%20Gembitz%20email%20partner)
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gembitz/Gembitz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gembitz/Gembitz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gembitz/Gembitz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
